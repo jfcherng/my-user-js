@@ -3,7 +3,7 @@
 // @description 在 sourceforge.net 直接顯示下載連結並替換鏡像
 // @namespace   jfcherng
 // @match       https://sourceforge.net/projects/*/files/*
-// @version     0.0.2
+// @version     0.0.3
 // @grant       none
 // @author      jfcherng
 // @license     MIT
@@ -13,7 +13,7 @@
 // @supportURL  https://github.com/jfcherng/my-user-js
 // ==/UserScript==
 
-const mirror_host = 'netix.dl.sourceforge.net';
+const mirror_host = 'phoenixnap.dl.sourceforge.net';
 
 // ---------------------------------------------------------------------------
 
